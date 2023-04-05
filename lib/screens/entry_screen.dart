@@ -1,5 +1,10 @@
+import 'dart:math';
 import 'package:rive/rive.dart';
-import '../Resources/barrel_export.dart';
+import 'screens.dart';
+import '../utils/utils.dart';
+import '../models/models.dart';
+import '../Resources/resources.dart';
+import '../components/components.dart';
 
 class EntryScreen extends StatefulWidget {
   const EntryScreen({Key? key}) : super(key: key);

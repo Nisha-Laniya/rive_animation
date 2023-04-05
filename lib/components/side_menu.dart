@@ -1,5 +1,8 @@
 import 'package:rive/rive.dart';
-import '../Resources/barrel_export.dart';
+import '../models/models.dart';
+import 'components.dart';
+import '../Resources/resources.dart';
+import '../utils/utils.dart';
 
 class SideMenu extends StatefulWidget {
   const SideMenu({Key? key}) : super(key: key);

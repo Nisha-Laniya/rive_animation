@@ -1,6 +1,6 @@
-import '../Resources/barrel_export.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:rive/rive.dart';
+import 'components.dart';
 
 class AnimatedButton extends StatelessWidget {
   const AnimatedButton({

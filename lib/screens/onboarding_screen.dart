@@ -1,6 +1,7 @@
 import 'dart:ui';
 import 'package:rive/rive.dart';
-import '../Resources/barrel_export.dart';
+import 'screens.dart';
+import '../components/components.dart';
 
 class OnBoardingScreen extends StatefulWidget {
   const OnBoardingScreen({Key? key}) : super(key: key);

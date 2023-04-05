@@ -1,4 +1,5 @@
-import 'Resources/barrel_export.dart';
+import 'screens/screens.dart';
+import 'Resources/resources.dart';
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();

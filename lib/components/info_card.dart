@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
-import '../Resources/barrel_export.dart';
+import 'components.dart';
+import '../Resources/resources.dart';
 
 class InfoCard extends StatelessWidget {
   const InfoCard({

@@ -1,4 +1,5 @@
-import '../Resources/barrel_export.dart';
+import '../Resources/resources.dart';
+import 'package:flutter/material.dart';
 
 class Course {
   final String title, description, iconsrc;

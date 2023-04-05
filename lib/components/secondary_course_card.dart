@@ -1,4 +1,5 @@
-import '../Resources/barrel_export.dart';
+import 'components.dart';
+import '../Resources/resources.dart';
 
 class SecondaryCourseCard extends StatelessWidget {
   const SecondaryCourseCard({

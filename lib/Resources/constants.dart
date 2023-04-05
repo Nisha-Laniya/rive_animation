@@ -1,4 +1,4 @@
-import '../Resources/barrel_export.dart';
+import 'resources.dart';
 
 OutlineInputBorder defaultInputBorder = OutlineInputBorder(
   borderRadius: const BorderRadius.all(

@@ -1,4 +1,4 @@
-import 'barrel_export.dart';
+import '../Resources/resources.dart';
 
 class ColorManager {
   static Color backgroundColor = const Color(0xFF17203A);

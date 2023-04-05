@@ -1,5 +1,7 @@
 import 'package:rive/rive.dart';
-import '../Resources/barrel_export.dart';
+import '../models/models.dart';
+import 'components.dart';
+import '../Resources/resources.dart';
 
 class SideMenuTile extends StatelessWidget {
   const SideMenuTile({

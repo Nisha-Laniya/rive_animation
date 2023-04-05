@@ -1,4 +1,6 @@
-import '../Resources/barrel_export.dart';
+import 'screens.dart';
+import '../Resources/resources.dart';
+import '../components/components.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);

@@ -1,5 +1,6 @@
 import 'package:rive/rive.dart';
-import '../Resources/barrel_export.dart';
+import 'components.dart';
+import '../Resources/resources.dart';
 
 class MenuButton extends StatelessWidget {
   const MenuButton({
